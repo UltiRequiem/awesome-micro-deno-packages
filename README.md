@@ -11,6 +11,26 @@ _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 - [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
 - [Why I think "micro-packages" are a good thing](http://codetunnel.io/why-i-think-micro-packages-are-a-good-thing)
 
+## Modules
+
+### Strings
+
+- [is_numer](https://github.com/UltiRequiem/deno-is-number): Check if an string
+  is Numeric
+
+### Math
+
+- [fibonacci](https://github.com/UltiRequiem/fibonacci-deno): Fibonacci Number
+  and Sequence Utilities
+- [sum](https://github.com/UltiRequiem/deno-sum): Sum Utilities
+- [sum_digits](https://github.com/UltiRequiem/deno-sum-digits): Sum Digits of a
+  number
+
+### Others
+
+- [clear](https://github.com/UltiRequiem/deno-clear): Utilities to clean the
+  console
+
 ## Small Modules Rockstars to Follow
 
 These people are used to develop awesome Deno modules that follows the single
