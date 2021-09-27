@@ -17,6 +17,8 @@ _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
 - [is_numer](https://github.com/UltiRequiem/deno-is-number): Check if an string
   is Numeric
+- [camelCase](https://github.com/UltiRequiem/deno-camelcase): Convert
+  dash/dot/underscore/space separated string to camelCase
 
 ### Math
 
