@@ -19,11 +19,12 @@ responsibility philosophy. Follow them to discover new great modules:
 ## Small Modules Rockstars to Follow
 
 These people are used to develop awesome Deno modules that follows the single
-responsibility philosophy. Follow them to discover new great modules: |
-[![Eliaz Bobadilla](https://avatars.githubusercontent.com/u/71897736?s=130)](https://github.com/UltiRequiem)
-| |
-------------------------------------------------------------------------------------------------------------
-| [Eliaz Bobadilla](https://github.com/UltiRequiem)
+responsibility philosophy. Follow them to discover new great modules: 
+
+| [![Eliaz Bobadilla](https://avatars.githubusercontent.com/u/71897736?s=130)](https://github.com/UltiRequiem) |
+| ---------------------------------------------------------------------------------------------------------- |
+| [Eliaz Bobadilla](https://github.com/UltiRequiem)                                                          |
+
 
 ### License
 
