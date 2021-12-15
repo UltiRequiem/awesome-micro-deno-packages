@@ -19,6 +19,9 @@ _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
   is Numeric
 - [camelCase](https://github.com/UltiRequiem/deno-camelcase): Convert
   dash/dot/underscore/space separated string to camelCase
+  
+ - [palindrome](https://github.com/UltiRequiem/palindrome): Check if an string
+   is palindrome, optimized, tested and benchmarked.
 
 ### Math
 
