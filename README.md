@@ -30,6 +30,7 @@ _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 - [sum](https://github.com/UltiRequiem/deno-sum): Sum Utilities
 - [sum_digits](https://github.com/UltiRequiem/deno-sum-digits): Sum Digits of a
   number
+- [random_number](https://github.com/UltiRequiem/random_number)
 
 ### Others
 
