@@ -15,13 +15,12 @@ _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
 ### Strings
 
-- [is_numer](https://github.com/UltiRequiem/deno-is-number): Check if an string
-  is Numeric
+- [is_number](https://github.com/UltiRequiem/deno-is-number): Check if a string
+  is numeric
 - [camelCase](https://github.com/UltiRequiem/deno-camelcase): Convert
   dash/dot/underscore/space separated string to camelCase
-  
- - [palindrome](https://github.com/UltiRequiem/palindrome): Check if an string
-   is palindrome, optimized, tested and benchmarked.
+- [palindrome](https://github.com/UltiRequiem/palindrome): Check if a string
+  is palindrome, optimized, tested and benchmarked.
 
 ### Math
 
@@ -39,7 +38,7 @@ _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
 ## Small Modules Rockstars to Follow
 
-These people are used to develop awesome Deno modules that follows the single
+These people are used to develop awesome Deno modules that follow the single
 responsibility philosophy. Follow them to discover new great modules:
 
 | [![Eliaz Bobadilla](https://avatars.githubusercontent.com/u/71897736?s=130)](https://github.com/UltiRequiem) |
